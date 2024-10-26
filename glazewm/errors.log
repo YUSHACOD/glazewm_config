@@ -1,0 +1,18 @@
+[2m2024-08-16T15:21:03.137343Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-08-16T15:46:01.571104Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 206 column 15
+[2m2024-08-16T15:54:45.711265Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-08-17T05:22:45.565912Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-02T07:43:29.634378Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-02T07:56:19.107753Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2024-10-09T04:31:49.974952Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m channel closed
+[2m2024-10-25T05:32:52.937515Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-25T05:50:19.282670Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '1' doesn't exist or is already active.
+[2m2024-10-25T05:51:10.776991Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '1' doesn't exist or is already active.
+[2m2024-10-25T05:51:19.849782Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '9' doesn't exist or is already active.
+[2m2024-10-25T05:53:46.004264Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute 'wezterm'.\n\nError: The operation was canceled by the user. (0x800704C7)"
+[2m2024-10-25T05:54:10.318288Z[0m [31mERROR[0m [2mglazewm::common::commands::shell_exec[0m[2m:[0m [3merr_message[0m[2m=[0m"Failed to execute '%ProgramFiles%/Wezterm/wezterm'.\n\nError: Program path is not valid for command '%ProgramFiles%/Wezterm/wezterm'."
+[2m2024-10-25T05:55:18.520108Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '9' doesn't exist or is already active.
+[2m2024-10-25T05:57:09.469372Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '9' doesn't exist or is already active.
+[2m2024-10-25T06:02:34.397427Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 206 column 15
