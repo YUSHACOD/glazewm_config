@@ -16,3 +16,4 @@
 [2m2024-10-25T05:57:09.469372Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Workspace with name '9' doesn't exist or is already active.
 [2m2024-10-25T06:02:34.397427Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
  at line 206 column 15
+[2m2024-11-11T03:45:11.211729Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
