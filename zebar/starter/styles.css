@@ -21,10 +21,6 @@ body,
   height: 100%;
 }
 
-#root {
-  background: rgb(78, 37, 107);
-}
-
 .app {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
