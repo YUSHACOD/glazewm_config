@@ -114,6 +114,8 @@ window_rules:
   - commands: ['move --workspace chat']
     match:
       - window_process: { regex: 'Discord' }
+      - window_title: { regex: 'WhatsApp' }
+
 
   - commands: ['move --workspace spotify']
     match:
