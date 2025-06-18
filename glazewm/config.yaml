@@ -76,7 +76,7 @@ window_behavior:
       maximized: false
 
       # Whether to show fullscreen windows as always on top.
-      shown_on_top: false
+      shown_on_top: true 
 
 workspaces:
   - name: 'terminal'
@@ -107,6 +107,10 @@ window_rules:
       - window_process: { equals: 'Lively' }
         window_class: { regex: 'HwndWrapper*' }
 
+      # Ignore Command Palette
+      - window_process: { equals: 'Microsoft' }
+        window_title: { regex: 'Command Palette' }
+
   - commands: ['move --workspace browser']
     match:
       - window_process: { regex: 'firefox' }
@@ -115,6 +119,10 @@ window_rules:
     match:
       - window_process: { regex: 'Discord' }
       - window_title: { regex: 'WhatsApp' }
+
+  - commands: ['move --workspace 4']
+    match:
+      - window_title: { regex: 'Dino' }
 
 
   - commands: ['move --workspace spotify']
